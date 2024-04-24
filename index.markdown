@@ -5,7 +5,6 @@
 layout: home
 ---
 
-# Marcos Wada
 ## Developer/Engineer
 
 ### Teste
